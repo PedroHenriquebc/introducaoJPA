@@ -6,5 +6,7 @@
 
 ​	:pushpin: Introdução ao JPA - Java Persistence API  
 
-**Link da do aulão no youtube** [AQUI](https://youtu.be/CAP1IPgeJkw) !
+**Link da do aulão no youtube** [AQUI](https://youtu.be/CAP1IPgeJkw).  
+
+**Link do github do aulão [AQUI](https://github.com/devsuperior/aulao006).**
 
