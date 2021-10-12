@@ -1,6 +1,6 @@
 ## :coffee: **Introdução JPA e Hibernate** 
 
-**Prática do aulão #006 do canal [DevSuperior](https://www.youtube.com/channel/UC3twHmWQwtqEO7u-gB_2f7g) onde aprenderemos:**  
+**Prática do aulão #006 do canal [DevSuperior](https://www.youtube.com/channel/UC3twHmWQwtqEO7u-gB_2f7g) onde aprendi:**  
 
 ​	:pushpin: Visão geral sobre mapeamento objeto-relacional  
 
