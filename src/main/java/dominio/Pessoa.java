@@ -13,9 +13,9 @@ public class Pessoa implements Serializable{
 	
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
-	public Integer id;
-	public String nome;
-	public String email;
+	private Integer id;
+	private String nome;
+	private String email;
 	
 	public Pessoa() {
 	}
